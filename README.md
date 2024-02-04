@@ -1,0 +1,13 @@
+## 참고 링크
+- \[frontend\] 협업 환경/컨벤션 정리 <https://yechoi.tistory.com/84>
+- Git Pull Request 컨벤션 <https://beststar-1.tistory.com/12>
+- \[Git\] GitHub pull request template 만들기 <https://wecandev.tistory.com/150>
+- Github - Pull request template 작성과 설정 <https://green-bin.tistory.com/16>
+- ★★★ 헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지 <https://medium.com/prnd/헤이딜러-개발팀-모두가-행복한-개발-pr관리-방법-7가지-1d4cd5d091f0>
+  - (GitHub blog) Issue and Pull Request templates <https://github.blog/2016-02-17-issue-and-pull-request-templates/>
+  - (GitHub Docs - Building coomunities) 문제 및 끌어오기 요청 템플릿 사용 <https://docs.github.com/ko/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates>
+  - (GitHub Docs - Building coomunities) 리포지토리에 대한 문제 템플릿 구성 <https://docs.github.com/ko/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository>
+  - (GitHub Docs - Building coomunities) 리포지토리에 대한 끌어오기 요청 템플릿 만들기 <https://docs.github.com/ko/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository>
+  - (GitHub Docs - Building coomunities) Creating a default community health file(기본 커뮤니티 상태 파일 만들기) <https://docs.github.com/ko/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file>
+- How to Use the .github Repository <https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/>
+- Github pull request template detect YAML front matter using config.yml and apply to fields <https://stackoverflow.com/questions/66392676/github-pull-request-template-detect-yaml-front-matter-using-config-yml-and-apply>
