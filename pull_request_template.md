@@ -10,7 +10,3 @@
 ## 사용방법
 
 ## 기타
-
-<!--
-[frontend] 협업 환경/컨벤션 정리 - https://yechoi.tistory.com/84
--->
